@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: widget-download\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: corimanon <admin@cori.fr.nf>\n"
+"Language-Team: Jessai, Corimanon, Youte, Peggy <http://salledewordpress.fr.nf>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: widget_download.php:52
+msgid "Titre :"
+msgstr ""
+
+#: widget_download.php:55
+msgid "Chemin :"
+msgstr ""
+
+#: widget_download.php:58
+msgid "Fichier :"
+msgstr ""
+
+#: widget_download.php:61
+msgid "Texte :"
+msgstr ""
+
+#: widget_download.php:68
+#: widget_download.php:69
+msgid "Download"
+msgstr ""
+
